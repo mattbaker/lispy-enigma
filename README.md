@@ -1,8 +1,8 @@
 # Enigma in Racket
 
-This is my implementation of a simple three-rotor Enigma, sans plugboard or ring settings.
+This is a solution to an assigment I created for my students at Dev Bootcamp. 
 
-This is a solution to an assigment I created for my students at Dev Bootcamp. They are required to implement this simple Enigma simulator in Racket, using only the List data structure. They're also encouraged to favor recursion over any loop constructs.
+Students are required to implement a simple three-rotor Enigma in Racket, sans plugboard. They are asked to implement their simulator without loop constructs like `for`, and using only the List data structure (for example, no `structs`.)
 
  * `enigma.rkt` — contains the simulator itself, with a few simple tests
  * `collection.rkt` — a few helper methods for interacting with lists
